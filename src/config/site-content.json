@@ -1,8 +1,8 @@
 {
 	"meta": {
 		"title": "light'blog",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"description": "hello！这里是Light'的博客世界 欢迎你的到来！",
+		"username": "Light"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,21 +44,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/XiaoXie0627",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "xhh032533@163.com",
 			"label": "",
 			"order": 1
 		}
@@ -72,7 +65,7 @@
 	"hatFlipped": false,
 	"enableChristmas": true,
 	"beian": {
-		"text": "",
+		"text": "桂ICP备2025059598号-1",
 		"link": ""
 	}
 }
