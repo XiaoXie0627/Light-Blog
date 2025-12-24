@@ -90,6 +90,7 @@ export const GITHUB_CONFIG = {
 ## 6. 配置
 
 大部分页面右上角都会有一个编辑按钮，意味着你可以使用 **private key** 进行配置部署。
+在配置页面修改配置后，导入秘钥触发vercel在你的Github提交更改信息，然后vercel CICD进行部署
 
 ### 6.1 网站配置
 
